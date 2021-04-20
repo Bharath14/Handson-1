@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "fcntl.h": "c",
-        "stdio.h": "c",
-        "stdlib.h": "c",
-        "sysmacros.h": "c"
-    },
-    "git.ignoreLimitWarning": true
-}
